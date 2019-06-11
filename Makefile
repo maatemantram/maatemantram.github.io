@@ -78,5 +78,9 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+github_travis: publish
+    ghp-import $(OUTPUTDIR) -b $(GITHUB_PAGES_BRANCH) -n -m "Travis generated Pelican site" 
+      # @git push -fq https://${GHTOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null # Use leading @ to remove command from output,
+    git push https://${GHTOKEN}@github.com/${GHTOKEN}/$(GHTOKEN).github.io.git gh-pages:master
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish github

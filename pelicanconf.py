@@ -85,7 +85,7 @@ THEME='themes/suchen'
 # A typical Pelican website will utilize many different plugins to extend its capabilities. Each plugin must be setup individually within pelicanconf.py. 
 # The PLUGINS variable contains all plugins being used by the website. 
 
-PLUGIN_PATHS = ["pelican-plugins/",]
+PLUGIN_PATHS = ["pelican-plugins",]
 PLUGINS = ['tag_cloud', 'i18n_subsites', 'tipue_search', 'sitemap' ]
 
 # LOAD_CONTENT_CACHE = False

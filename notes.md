@@ -40,3 +40,10 @@
 17. Steps to include tipue_search
 
 18. create a new theme & add it as submodule 
+
+19. Logo - try wix
+
+20. travis-ci build automation
+
+21. use of git hooks
+

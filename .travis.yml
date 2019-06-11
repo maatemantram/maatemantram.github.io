@@ -1,0 +1,35 @@
+language: python
+dist: trusty
+sudo: required
+
+python:
+- '3.6'
+
+before_install:
+- pip install -U pip
+- pip install -U setuptools
+- pip install -r requirements.txt
+# - pip install -r test-requirements.txt
+# - pip install peru
+# - peru sync
+
+script:
+- make html
+- make  publish
+
+
+after_success:
+- sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
+- sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
+- make github_travis
+# - make github_travis 2> /dev/null
+
+
+# - rm -rf .git/
+# - git init
+# - git config user.name "Travis CI"
+# - git config user.email "travis@domain.com"
+# - git config --global push.default simple
+# - git remote add origin https://${GITHUB_TOKEN}@github.com/krishnakishored/krishnakishored.github.io.git
+#                       https://github.com/krishnakishored/cv.git
+# - make github
