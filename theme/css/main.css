@@ -151,13 +151,13 @@ img.left, figure.left {
     line-height: 1;
     text-align: center; }
     #banner h1 a:link, #banner h1 a:visited {
-      color: #000305;
+      color: #48b7eb;
       display: block;
       font-weight: bold;
       margin: 0 0 0.6em 0.2em;
       text-decoration: none; }
     #banner h1 a:hover, #banner h1 a:active {
-      color: #113D8B;
+      color: rgb(59, 141, 179);
       text-shadow: 1px 1px #fff; }
   #banner .nav > li > a {
     font-family: Overlock, sans-serif;
