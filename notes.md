@@ -47,3 +47,4 @@
 
 21. use of git hooks
 
+23. Add tags to articles - externally (like 'trending')

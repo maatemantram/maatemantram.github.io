@@ -106,7 +106,16 @@ SITEMAP = {
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))   # for tipue_search plugin
 # GOOGLE_CUSTOM_SEARCH = '012187664387569444530:auoscqbxcgw'
 
+# For tag_cloud
+# TAG_CLOUD_STEPS = 4	# Count of different font sizes in the tag cloud.
+TAG_CLOUD_MAX_ITEMS = 20	# Maximum number of tags in the cloud.
+TAG_CLOUD_SORTING = 'random'	# The tag cloud ordering scheme. Valid values: random, alphabetically, alphabetically-rev, size and size-rev
+# TAG_CLOUD_BADGE = True # 
+
+
 HIDE_CATEGORIES_FROM_MENU = True
+
+SHOW_NAVBAR = False
 
 # SHARETHIS_PUB_KEY = 'your ShareThis Pub Key'
 

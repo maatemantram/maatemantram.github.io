@@ -1,0 +1,39 @@
+{% extends "index.html" %}
+{% block title %}Archives for {{ SITENAME }}{% endblock %}
+{% block ogtitle %}Archives for {{ SITENAME }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/archives.html{%endblock%}
+{% block canonicalurl %}{{ SITEURL }}/archives.html{%endblock%}
+
+{% block content %}
+<div class="span9">
+    <section>
+    <h1>{% block content_title %}Archives for {{ SITENAME }}{% endblock %}</h1>
+
+    {% for article in dates %}
+        {% set this_year = article.date.strftime('%Y') %}
+        {% set this_month = article.date.strftime('%b') %}
+        {% set this_day = article.date.strftime('%d') %}
+        {% if article.date.year != dates[loop.index0 - 1].date.year %}
+        <div class="row-fluid archive_row">
+            <div class="span1 archive_year">{{ this_year }}</div>
+        </div>
+        {% endif %}
+        {% if article.date.year != dates[loop.index0 - 1].date.year or article.date.month != dates[loop.index0 - 1].date.month %}
+        <div class="row-fluid archive_row">
+            <div class="offset1 span1 archive_month">{{ this_month }}</div>
+        </div>
+        {% endif %}
+        <div class="row-fluid archive_row">
+            {% if article.date.month != dates[loop.index0 - 1].date.month or article.date.day != dates[loop.index0 - 1].date.day %}
+                <div class="offset1 span1 archive_day">
+                {{ this_day }}
+                </div>
+            {% endif %}
+            <div class="{% if article.date.year == dates[loop.index0 - 1].date.year and article.date.month == dates[loop.index0 - 1].date.month and article.date.day == dates[loop.index0 - 1].date.day %}offset2 {% endif %}span10">
+                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            </div>
+        </div>
+    {% endfor %}
+    </section>
+</div>
+{% endblock %}
