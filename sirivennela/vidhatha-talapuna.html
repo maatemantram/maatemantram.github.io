@@ -17,8 +17,13 @@
 
     <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
     <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
     <link rel="stylesheet" type="text/css" href="https://maatemantram.com/theme/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maatemantram.com/theme/css/suchen.css" />
+
+
     <link href="https://maatemantram.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="మాటేమంత్రం Atom Feed" />
 
     <script type="text/javascript">var switchTo5x=true;</script>
@@ -40,15 +45,21 @@
                 <h1>
                     <a href="https://maatemantram.com/">మాటేమంత్రం </a>
                 </h1>
-                <nav class="navbar">
-                    <div class="navbar-inner">
-                        <ul class="nav">
-                        </ul>
 
-                        <form class="navbar-search" action="https://maatemantram.com/search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form>
+                <div class="container h-100">
+                    <div class="d-flex justify-content-center h-100">
+                       <!-- Search form -->
+                    <form class="form-inline md-form form-sm mt-0" action="https://maatemantram.com/search.html" onsubmit="return validateForm(this.elements['q'].value);">                 
+                      <div class="searchbar">
+                        <!-- <input class="search_input" type="text" name="" placeholder="Search..."> -->
+                        <input type="text" class="search_input" placeholder="Search" name="q" id="tipue_search_input">
+                        <a href="#" class="search_icon"><i class="fas fa-search"></i></a>
+                     </div>
+                    </form>
 
                     </div>
-                </nav>
+                  </div>
+                
             </header><!-- /#banner -->
         </div>
     </div>
