@@ -35,7 +35,7 @@ _చరణం:_
 
 nee chentE oka chenchita vunTe vennellO vETa aDi  
 nee venTE oka chandrika vunTe punnamitO paaTa aDi  
-adE kadaa idi avunEmO anTOndi madi //2//  
+adE kadaa idi avunEmO anTOndi madi     
 
 vayasuki vagarostunTE hOy vasantaala raaka adi  
 sogasuki chigurostunTE hOy vayyaarala vEkuvadi  
