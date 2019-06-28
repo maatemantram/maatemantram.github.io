@@ -26,7 +26,7 @@ Summary: అణిగి మణిగిన అలలిక ఎగసెను �
  
 గమనాలనే గమనించరా...  
 గమనాలనే గమనించరా ఒకనడు గమ్య మెదురవదా    
-గగనాలనే గురి చూడరా, మరి నేల నీకు వసమవదా     //2//   
+గగనాలనే గురి చూడరా, మరి నేల నీకు వసమవదా       
 
 పిడుగు వలెనే పడుతు కలుపు ఈ నింగి నేల    
 ఉరుము మెరుపు బరిలో నిలుపు ఇక అంత నీదెరా    
@@ -61,7 +61,7 @@ pagalu merupulu chupara, vayasu sagamuga maripoyi oodera
 _charanam_
 gamanalane gamaninchara...  
 gamanalane gamaninchara okanadu gamya medurvada    
-gaganalane guri chudara , mari nela neku vasamavada     //2//  
+gaganalane guri chudara , mari nela neku vasamavada    
 
 pidugu valene paduthu kalupu e ningi nela   
 urumu merupu barilo nilupu eka antha nedera  
