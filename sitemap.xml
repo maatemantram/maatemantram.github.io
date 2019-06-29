@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/</loc>
-<lastmod>2019-06-28T14:56:42-00:00</lastmod>
+<lastmod>2019-06-29T16:58:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/archives.html</loc>
-<lastmod>2019-06-28T14:56:42-00:00</lastmod>
+<lastmod>2019-06-29T16:58:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/tags.html</loc>
-<lastmod>2019-06-28T14:56:42-00:00</lastmod>
+<lastmod>2019-06-29T16:58:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/categories.html</loc>
-<lastmod>2019-06-28T14:56:42-00:00</lastmod>
+<lastmod>2019-06-29T16:58:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,6 +89,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/subhodayam/gandhamu-puyyaruga</loc>
+<lastmod>2019-03-25T12:00:00+05:30</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/dearcomrade/gira-gira-gira</loc>
 <lastmod>2019-03-25T12:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -501,6 +508,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://maatemantram.com/tag/justin-prabhakaran.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/tag/rehman.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/tag/gowtham-bharadwaj.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/tag/yaamini-ghantasala.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://maatemantram.com/tag/aatreya.html</loc>
 <lastmod>2019-03-25T12:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -565,20 +600,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/tag/vidyasagar.html</loc>
-<lastmod>2019-03-25T12:00:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://maatemantram.com/tag/justin-prabhakaran.html</loc>
-<lastmod>2019-03-25T12:00:00+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://maatemantram.com/tag/gowtham-bharadwaj.html</loc>
 <lastmod>2019-03-25T12:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -872,6 +893,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://maatemantram.com/author/rehman.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://maatemantram.com/author/shakthisree-gopalan.html</loc>
 <lastmod>2019-03-25T12:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
@@ -957,6 +985,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/author/vidyasagar.html</loc>
+<lastmod>2019-03-25T12:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/author/yaamini-ghantasala.html</loc>
 <lastmod>2019-03-25T12:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
