@@ -101,14 +101,16 @@ a.list-of-categories:hover {
 
 /* Search bar */
 
-.searchbar{
+/* .searchbar{
     margin-bottom: auto;
     margin-top: auto;
     height: 50px;
-    background-color: #26b1db;
+    
+    background-color:wheat;
+    border-color: #26b1db ;
     border-radius: 30px;
     padding: 10px;
-    }
+    } */
 
     .search_input{
     color: white;
@@ -121,20 +123,30 @@ a.list-of-categories:hover {
     transition: width 0.4s linear;
     }
 
-    .searchbar:hover > .search_input{
+    .searchbar > .search_input{
+        padding: 0 10px;
+        width: 300px;
+        height: 50px;
+        caret-color:red;
+        border-radius: 30px;
+        border-color: #26b1db ;
+    }
+
+
+    /* .searchbar:hover > .search_input{
     padding: 0 10px;
     width: 300px;
     height: 30px;
     caret-color:red;
     transition: width 0.4s linear;
-    }
+    } */
 
-    .searchbar:hover > .search_icon{
+    /* .searchbar:hover > .search_icon{
     background: white;
     color: rgb(102, 200, 245);
-    }
+    }  */
 
-    .search_icon{
+    /* .search_icon{
     height: 40px;
     width: 40px;
     float: right;
@@ -143,4 +155,4 @@ a.list-of-categories:hover {
     align-items: center;
     border-radius: 50%;
     color:white;
-    }
+    } */

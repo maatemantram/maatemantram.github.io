@@ -48,3 +48,43 @@
 21. use of git hooks
 
 23. Add tags to articles - externally (like 'trending')
+
+### Todo:
+1. Add gitsubmodule for pelican plugins & themes
+1. Using make
+    ~~~sh 
+    - help:
+        @echo 'Makefile for a pelican Web site                                           '
+        @echo '                                                                          '
+        @echo 'Usage:                                                                    '
+        @echo '   make html                           (re)generate the web site          '
+        @echo '   make clean                          remove the generated files         '
+        @echo '   make regenerate                     regenerate files upon modification '
+        @echo '   make publish                        generate using production settings '
+        @echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
+        @echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
+        @echo '   make devserver [PORT=8000]          serve and regenerate together      '
+        @echo '   make ssh_upload                     upload the web site via SSH        '
+        @echo '   make rsync_upload                   upload the web site via rsync+ssh  '
+        @echo '   make github                         upload the web site via gh-pages   '
+        @echo '                                                                          '
+        @echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
+        @echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
+        @echo '                                                                          '
+    ~~~
+
+
+    ~~~sh
+    @ ~/coding/pages_github/maatemantram.github.io
+    $ `make html`
+    ~~~
+    > command output:  
+    pelican /Users/kishored/coding/pages_github/maatemantram.github.io/content -o /Users/kishored/coding/pages_github/maatemantram.github.io/output -s /Users/kishored/coding/pages_github/maatemantram.github.io/pelicanconf.py  
+        Done: Processed 27 articles, 0 drafts, 0 pages, 0 hidden pages and 0 draft pages in 0.92 seconds.  
+    - static files are generated in `output` directory   
+
+    $ `make publish `
+
+    $ `make github`
+## References 
+1. https://github.com/getpelican/pelican-plugins
