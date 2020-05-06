@@ -1,13 +1,13 @@
 {% extends "index.html" %}
-{% block title %}Categories for {{ SITENAME }}{% endblock %}
-{% block ogtitle %}Categories for {{ SITENAME }}{% endblock %}
+{% block title %}{{ SITENAME }} Categories {% endblock %}
+{% block ogtitle %}{{ SITENAME }} Categories {% endblock %}
 {% block ogurl %}{{ SITEURL }}/categories.html{%endblock%}
 {% block canonicalurl %}{{ SITEURL }}/categories.html{%endblock%}
 
 {% block content %}
 <div class="span9">
     <section>
-    <h1>{% block content_title %}Categories for {{ SITENAME }}{% endblock %}</h1>
+    <h1>{% block content_title %} Categories {% endblock %}</h1>
 
     <dl>
     {% for category, articles in categories %}

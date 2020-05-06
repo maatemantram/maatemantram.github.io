@@ -1,12 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
+from dotenv import load_dotenv
 
-AUTHOR = 'maatemantram'
-SITENAME = 'మాటేమంత్రం'
-# SITEURL = 'https://maatemantram.com'
-SITEURL = 'http://localhost:8000'
+load_dotenv()
 
+AUTHOR = os.getenv('PELICAN_AUTHOR', 'maatemantram')
+SITENAME = os.getenv('PELICAN_SITENAME', 'మాటేమంత్రం')
+SITEURL = os.getenv('PELICAN_SITEURL', 'https://maatemantram.com')
+# print(SITEURL, SITENAME, AUTHOR)
 
 PATH = 'content'
 
@@ -108,14 +111,14 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 # For tag_cloud
 # TAG_CLOUD_STEPS = 4	# Count of different font sizes in the tag cloud.
-TAG_CLOUD_MAX_ITEMS = 20	# Maximum number of tags in the cloud.
+TAG_CLOUD_MAX_ITEMS = 30	# Maximum number of tags in the cloud.
 TAG_CLOUD_SORTING = 'random'	# The tag cloud ordering scheme. Valid values: random, alphabetically, alphabetically-rev, size and size-rev
 # TAG_CLOUD_BADGE = True # 
 
 
 HIDE_CATEGORIES_FROM_MENU = True
 
-SHOW_NAVBAR = False
+SHOW_NAVBAR = False # There's no navbar for now
 
 # SHARETHIS_PUB_KEY = 'your ShareThis Pub Key'
 
