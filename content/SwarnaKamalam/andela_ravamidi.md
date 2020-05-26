@@ -1,5 +1,5 @@
 Title: అందెల రవమిది పదములదా
-Date: 2019-03-25 12:00      
+Date: 1988      
 Slug: andela-ravamidi  
 Authors: Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram, Ilayaraja
 Tags: Ilayaraja, Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram

@@ -1,5 +1,5 @@
 ﻿Title: నిదరే కల అయినది  
-Date: 2019-03-25 12:00      
+Date: 2008      
 Slug: nidare-kala-ainadi  
 Authors: Veturi, Harris Jayaraj, Sudha Ragunathan  
 Tags: Veturi, Harris Jayaraj, Sudha Ragunathan  

@@ -1,5 +1,5 @@
 ﻿Title: గంధము పుయ్యరుగ  
-Date: 2019-03-25 12:00      
+Date: 1980      
 Slug: gandhamu-puyyaruga
 Authors: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela     
 Tags: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela    

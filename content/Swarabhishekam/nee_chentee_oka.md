@@ -1,5 +1,5 @@
 ﻿Title: నీ చెంతే ఒక చెంచిత వుంటె  
-Date: 2019-03-25 12:00      
+Date: 2004      
 Slug: nee-chente-oka-chenchita-vunte
 Authors: Vidyasagar
 Tags: Vidyasagar
