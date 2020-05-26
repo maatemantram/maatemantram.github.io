@@ -1,11 +1,56 @@
-Title: అందెల రవమిది పదములదా
-Date: 1988      
-Slug: andela-ravamidi  
-Authors: Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram, Ilayaraja
-Tags: Ilayaraja, Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram
-Summary: అందెల రవమిది పదములదా అంబరమంటిన హ్రుదయముదా  
+title: అందెల రవమిది పదములదా
+album: Swarnakamalam
+date: 1988      
+slug: andela-ravamidi  
+authors: Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram, Ilayaraja
+tags: Ilayaraja, Sirivennela Sitarama Sastri, S.P.B, Vani Jayaram
+summary: అందెల రవమిది పదములదా అంబరమంటిన హ్రుదయముదా  
 
------           
+------------           
+
+Om namoa namoa namah Sivaayaa   
+mangaLapradaaya goturangatea namah Sivaayaa   
+
+gangayaatarangitottamaangatea namah Sivaayaa  
+Om namoa namoa namah Sivaayaa 
+
+Soolinea namoa namah kapaalinea namah Sivaayaa   
+paalinea viranchitunDa maalinea namah Sivaayaa  
+
+andela ravamidi padamuladaa...  
+andela ravamidi padamuladaa ambaramanTina hrudayamudaa   
+amRta gaanamidi pedavuladaa amitaanandapu eda saDidaa    
+
+saangika saadhana saardhakamandaga yOga balamuga yaaga phalamuga  
+bratuku praNavamai mrOgukadaa...  
+
+muvvalu urumula savvaDulai meLikalu merupula meLakuvalai   
+mEnu harsha varsha mEghamai, vEni visuru vaayuvEgamai    
+anga bhangimalu ganga pongulai, haava bhaavamulu ningi rangulai      
+naaTyam saage veela rasajharulu jaaluvaarElaa    
+jangamamai jaDa maaDagaa, jalapaata geetamula tODugaa      
+parvataalu prasarinchina pacchani prakruti aakruti paarvati kaaga  
+
+nayana tEjamea nakaaramai   
+manO niScayam makaaramai   
+Swaasa chalanamea Sikaaramai   
+vaanchitaardhamea vakaaramai   
+yOchana sakalamu yakaaramai   
+
+naadham nakaaram...mantram makaaram...stOtram Sikaaram...vEdam vakaaram....yamnam yakaaram...    
+Om namah Sivaaya...   
+
+bhaavame bhavunaku bhaavyamu kaagaa   
+bharatame niratamu bhaagyamu kaagaa  
+
+tuvina girulu tarigEla taanDava maaDea vEla   
+praaNa panchamame panchaaksharigaa parama padamu prakaTinchagaa   
+khagOlaalu padakinkiNulai padi dikkula dhoorjati aarbhaTi veala  
+  
+andela ravamidi padamuladaa ambaramantina hRudayamudaa   
+amRuta gaanamidi pedavuladaa amitaanandhapu yada saDidaa   
+
+------------
 
 ఓం నమో నమో నమ: శివాయా  
 మంగళప్రదాయ గొతురంగతే నమః శివాయా 
@@ -47,53 +92,7 @@ Summary: అందెల రవమిది పదములదా అంబర�
   
 అందెల రవమిది పదములదా ...
 
------
-
-Om namoa namoa namah Sivaayaa   
-mangaLapradaaya goturangatea namah Sivaayaa   
-
-gangayaatarangitottamaangatea namah Sivaayaa  
-Om namoa namoa namah Sivaayaa 
-
-Soolinea namoa namah kapaalinea namah Sivaayaa   
-paalinea viranchitunDa maalinea namah Sivaayaa  
-
-andela ravamidi padamuladaa...  
-andela ravamidi padamuladaa ambaramanTina hrudayamudaa   
-amRta gaanamidi pedavuladaa amitaanandapu eda saDidaa    
-
-saangika saadhana saardhakamandaga yOga balamuga yaaga phalamuga  
-bratuku praNavamai mrOgukadaa...  
-
-
-muvvalu urumula savvaDulai meLikalu merupula meLakuvalai   
-mEnu harsha varsha mEghamai, vEni visuru vaayuvEgamai    
-anga bhangimalu ganga pongulai, haava bhaavamulu ningi rangulai      
-naaTyam saage veela rasajharulu jaaluvaarElaa    
-jangamamai jaDa maaDagaa, jalapaata geetamula tODugaa      
-parvataalu prasarinchina pacchani prakruti aakruti paarvati kaaga  
-
-
-nayana tEjamea nakaaramai   
-manO niScayam makaaramai   
-Swaasa chalanamea Sikaaramai   
-vaanchitaardhamea vakaaramai   
-yOchana sakalamu yakaaramai   
-
-naadham nakaaram...mantram makaaram...stOtram Sikaaram...vEdam vakaaram....yamnam yakaaram...    
-Om namah Sivaaya...   
-
-bhaavame bhavunaku bhaavyamu kaagaa   
-bharatame niratamu bhaagyamu kaagaa  
-
-tuvina girulu tarigEla taanDava maaDea vEla   
-praaNa panchamame panchaaksharigaa parama padamu prakaTinchagaa   
-khagOlaalu padakinkiNulai padi dikkula dhoorjati aarbhaTi veala  
-  
-
-andela ravamidi padamuladaa ambaramantina hRudayamudaa   
-amRuta gaanamidi pedavuladaa amitaanandhapu yada saDidaa   
-
+------------
 
     అందెల రవమిది పదములదా... 
     అందెల రవమిది పదములదా అంబరమంటిన హ్రుదయముదా 

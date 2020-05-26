@@ -1,11 +1,12 @@
-Title: పూసింది పూసింది పున్నాగ   
-Date: 2019-03-25 12:00      
-Slug:  poosindi-poosindi-punnaga
-Authors: Veturi, M M Keeravani, Chitra , S.P.B  
-Tags: Romantic, M M Keeravani, Chitra , S.P.B, Veturi     
-Summary: పూసింది పూసింది పున్నాగ  పూసంత నవ్వింది నీలాగ.. 
+title: పూసింది పూసింది పున్నాగ   
+album: SeetharamaiahGariManavaralu
+date: 2019-03-25 12:00      
+slug:  poosindi-poosindi-punnaga
+authors: Veturi, M M Keeravani, Chitra , S.P.B  
+tags: Romantic, M M Keeravani, Chitra , S.P.B, Veturi     
+summary: పూసింది పూసింది పున్నాగ  పూసంత నవ్వింది నీలాగ.. 
 
------
+------------
 
 పూసింది పూసింది పున్నాగ   
 పూసంత నవ్వింది నీలాగ..   
@@ -33,7 +34,8 @@ Summary: పూసింది పూసింది పున్నాగ  ప�
 పసిమొగ్గ రేకులే పరువాల చూపులై..   
 పూసె విరబూసె..  
 
------
+------------
+
 
 Poosindi poosindi punnaga poosantha navvindi neelaga..  
 Sandhela laagesi sallanga daani sannayi jallona sampenga..  
@@ -68,3 +70,5 @@ Poosindi poosindi punnaga poosantha navvindi neelaga..
 Sandhela laagesi sallanga daani sannayi jallona sampenga..  
 Mullokaale kuppelai jada kuppelai..  
 Aada jathulaada..  
+
+------------

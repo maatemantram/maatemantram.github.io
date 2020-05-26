@@ -1,9 +1,10 @@
-Title: పరుగు పరుగు  
-Date: 2019-03-25 12:00  
+title: Parugu parugu  
+album: Chitralahari  
+date: 2019-03-25 12:00  
 slug: parugu-parugu  
-Authors: Devi Sri Prasad   
-Tags: Motivational , Devi Sri Prasad  
-Summary: పరుగు పరుగు వెళ్తున్న ఎటువైపు  
+authors: Devi Sri Prasad   
+tags: Motivational , Devi Sri Prasad  
+summary: పరుగు పరుగు వెళ్తున్న ఎటువైపు  
 
 
 ------------

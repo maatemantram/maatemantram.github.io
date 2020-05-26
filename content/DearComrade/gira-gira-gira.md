@@ -1,5 +1,5 @@
 title: Gira Gira Gira  
-album: Dear Comrade Movie  
+album: Dear Comrade    
 slug: gira-gira-gira  
 date: 2020  
 authors: Rehman, Justin Prabhakaran, Gowtham Bharadwaj, Yamini Ghantasala  

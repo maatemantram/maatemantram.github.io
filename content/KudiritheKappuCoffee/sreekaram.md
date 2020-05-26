@@ -1,11 +1,13 @@
-Title: శ్రీకారం చుడుతున్నట్టు
-Date: 2019-03-25 12:00      
-Slug:  Sreekaaram   
-Authors: Sirivennela Sitarama Sastri, Yogeshwara Sharma    
-Tags: Romantic, Yogeshwara Sharma, Sirivennela Sitarama Sastri  
-Summary: శ్రీకారం చుడుతున్నట్టు కమ్మని కలనాహ్వనిస్తూ నీ కనులెటు చూస్తున్నయొ మాక్కూడ చూపించమ్మ  
+title: Sreekaaram Chudutunnattu  
+album: KudiritheKappuCoffee  
+date: 2019-03-25 12:00  
+slug: Sreekaaram   
+authors: Sirivennela Sitarama Sastri, Yogeshwara Sharma   
+tags: Romantic, Yogeshwara Sharma, Sirivennela Sitarama Sastri  
+summary: శ్రీకారం చుడుతున్నట్టు కమ్మని కలనాహ్వనిస్తూ నీ కనులెటు చూస్తున్నయొ మాక్కూడ చూపించమ్మ  
 
------
+------------
+
 శ్రీకారం చుడుతున్నట్టు కమ్మని కలనాహ్వనిస్తూ  
 నీ కనులెటు చూస్తున్నయొ మాక్కూడ చూపించమ్మ  
 ప్రాకారం కడుతున్నట్టు రాబోయే పండగ చుట్టూ  
@@ -34,3 +36,5 @@ Summary: శ్రీకారం చుడుతున్నట్టు కమ
 అందాకా మారం మాని జొకొట్టవే ఆరటన్ని  
 పొందిగ్గా పడుకొ రాణి జాగారం ఎందుగ్గనీ..  
 నళిణివో హరిణివో తరుణివో మురిపించే ముద్దులగుమ్మ  
+
+------------

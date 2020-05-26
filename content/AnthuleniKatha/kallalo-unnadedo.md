@@ -1,9 +1,9 @@
-Title: Kallalo vunnadedo.. kannulake telusu  
-Date: 2019-03-25 12:00      
+title: Kallalo vunnadedo.. kannulake telusu  
+date: 2019-03-25 12:00      
 slug: kallalo-unnadedo  
-Authors: Aatreya, M. S. Viswanathan, Janaki  
-Tags: Aatreya, M. S. Viswanathan, Janaki
-Summary: కళ్ళలో ఉన్నదేదో కన్నులకే తెలుసు  
+authors: Aatreya, M. S. Viswanathan, Janaki  
+tags: Aatreya, M. S. Viswanathan, Janaki
+summary: కళ్ళలో ఉన్నదేదో కన్నులకే తెలుసు  
 
 ------------
 

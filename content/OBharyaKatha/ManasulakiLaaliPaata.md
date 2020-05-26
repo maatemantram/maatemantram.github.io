@@ -1,11 +1,12 @@
-Title: మనసులకి లాలి పాట
-Date: 2019-03-25 12:00      
-Slug: manasulaki-laali-paata       
-Authors: Veturi, S.P.B, Janaki
-Tags: Pathos, Veturi, S.P.B, Janaki
-Summary: మనసులకి లాలి పాట...  మన కథల జాలి పాట 
+title: మనసులకి లాలి పాట
+album: OBharyaKatha  
+date: 2019-03-25 12:00      
+slug: manasulaki-laali-paata       
+authors: Veturi, S.P.B, Janaki
+tags: Pathos, Veturi, S.P.B, Janaki
+summary: మనసులకి లాలి పాట...  మన కథల జాలి పాట 
 
------
+------------
 
 మనసులకి లాలి పాట  
 మన కథల జాలి పాట  
@@ -26,7 +27,7 @@ Summary: మనసులకి లాలి పాట...  మన కథల జ�
 వల్మికి వరించినా నడిచింది ఆ జానకి    
 నీ జోల కావలి ఈ అమ్మకి ...నా తల్లిగా జన్మకి    
 
------
+------------
 
 manasulaki laali paata  
 mana kadhala jaali paata  
@@ -47,3 +48,4 @@ naa vennele aaveadhanai pongindhi naa kanTa malli
 valmiki varinchinaa naDichindhi aa jaanaki      
 nee joala kaavali ee ammaki ...naa thalligaa janmaki 
 
+------------

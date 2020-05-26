@@ -1,9 +1,9 @@
-﻿Title: ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి  
-Date: 2019-03-25 12:00      
-Slug: yeppudu-oppukovaddura  
-Authors: Sirivennela Sitarama Sastri, Ilayaraja, K. J. Yesudas   
-Tags: Motivational, Ilayaraja,  Sirivennela Sitarama Sastri, K. J. Yesudas   
-Summary: ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి ఎప్పుడూ వదులుకోవద్దురా ఓరిమి   
+﻿title: ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి  
+date: 2019-03-25 12:00      
+slug: yeppudu-oppukovaddura  
+authors: Sirivennela Sitarama Sastri, Ilayaraja, K. J. Yesudas   
+tags: Motivational, Ilayaraja,  Sirivennela Sitarama Sastri, K. J. Yesudas   
+summary: ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి ఎప్పుడూ వదులుకోవద్దురా ఓరిమి   
 
 -----
 

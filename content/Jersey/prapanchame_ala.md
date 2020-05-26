@@ -1,9 +1,9 @@
-Title: ప్రపంచమే అలా నిద్దర్లో వుందిగా 
-Date: 2019-03-25 12:00      
-Slug:  prapanchame-alaa  
-Authors: Krishna Kanth, Anirudh Ravichander, Shashaa Tirupati, Inno Genga 
-Tags: Romantic, Anirudh Ravichander, Krishna Kanth, Shashaa Tirupati, Inno Genga 
-Summary: ప్రపంచమే అలా నిద్దర్లో వుందిగా నవ్వేమో మేలుకుందిగా  పెదాలపై ఇలా  
+title: ప్రపంచమే అలా నిద్దర్లో వుందిగా 
+date: 2019-03-25 12:00      
+slug:  prapanchame-alaa  
+authors: Krishna Kanth, Anirudh Ravichander, Shashaa Tirupati, Inno Genga 
+tags: Romantic, Anirudh Ravichander, Krishna Kanth, Shashaa Tirupati, Inno Genga 
+summary: ప్రపంచమే అలా నిద్దర్లో వుందిగా నవ్వేమో మేలుకుందిగా  పెదాలపై ఇలా  
 
 -----
 

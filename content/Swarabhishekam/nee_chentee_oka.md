@@ -1,11 +1,12 @@
-﻿Title: నీ చెంతే ఒక చెంచిత వుంటె  
-Date: 2004      
-Slug: nee-chente-oka-chenchita-vunte
-Authors: Vidyasagar
-Tags: Vidyasagar
-Summary: నీ చెంతే ఒక చెంచిత వుంటె వెన్నెల్లో వేట అడి  
+﻿title: నీ చెంతే ఒక చెంచిత వుంటె  
+albbum: Swarabhishekam  
+date: 2004      
+slug: nee-chente-oka-chenchita-vunte
+authors: Vidyasagar
+tags: Vidyasagar
+summary: నీ చెంతే ఒక చెంచిత వుంటె వెన్నెల్లో వేట అడి  
 
------
+------------
 
 నీ చెంతే ఒక చెంచిత వుంటె వెన్నెల్లో వేట అడి  
 నీ వెంటే ఒక చంద్రిక వుంటె పున్నమితో పాట అడి  
@@ -31,7 +32,7 @@ _చరణం:_
 సా రి స ని ద ప మ గ రి స  
 రి గ మ గ ప   
 
------
+------------
 
 nee chentE oka chenchita vunTe vennellO vETa aDi  
 nee venTE oka chandrika vunTe punnamitO paaTa aDi  
@@ -54,3 +55,5 @@ pa da pa da sa daa
 paa daa saa paa daa gaa ri sa  
 saa ri sa ni da pa ma ga ri sa  
 ri ga ma ga pa   
+
+------------

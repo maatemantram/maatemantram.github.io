@@ -1,9 +1,9 @@
-Title: అవుననా కాదనా
-Date: 2019-03-25 12:00      
-Slug: avunana-kadana  
-Authors: Veturi, Mickey J Meyer, Shweta Pandit, Naresh Iyer  
-Tags: Romantic, Melody, Mickey J Meyer, Veturi, Shweta Pandit, Naresh Iyer  
-Summary: అవుననా కాదనా నాదనా...  లేదనా రాదనా వేదన 
+title: అవుననా కాదనా
+date: 2019-03-25 12:00      
+slug: avunana-kadana  
+authors: Veturi, Mickey J Meyer, Shweta Pandit, Naresh Iyer  
+tags: Romantic, Melody, Mickey J Meyer, Veturi, Shweta Pandit, Naresh Iyer  
+summary: అవుననా కాదనా నాదనా...  లేదనా రాదనా వేదన 
 
 -----
 అవుననా, కాదనా, నాదనా...  

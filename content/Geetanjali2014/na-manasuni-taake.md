@@ -1,11 +1,37 @@
-Title: నా మనసుని తాకే వేకువజాబిలివో 
-Date: 2019-03-25 12:00      
-Slug: Na-manasuni-taake        
-Authors: Hari charan, Sreejo 
-Tags: Romantic, Hari charan, Sreejo
-Summary: నా మనసుని తాకే వేకువజాబిలివో ఈ భువి కన్నులకే అందని తారకవో
+title: naa manasuni taakea veakuva jaabilivoa   
+album: Geetanjali2014
+date: 2019-03-25 12:00      
+slug: na-manasuni-taake        
+authors: Hari charan, Sreejo 
+tags: Romantic, Hari charan, Sreejo
+summary: నా మనసుని తాకే వేకువజాబిలివో ఈ భువి కన్నులకే అందని తారకవో
 
------
+
+------------
+
+naa manasuni taakea veakuva jaabilivoa   
+ee bhuvi kannulakea andani taarakavoa   
+
+naa pedavini taakea toli siri vaaneadoa  
+nee kanu saigalakea preamaga maarinadoa   
+
+naa yeda mallikavoa.. cheli koavela deevenavoa  
+mari minnulu chuaDani punnami vennela nealaku jaarinadoa   
+
+kannula nanTina kaaTukalaa, nee pedavanchuna pallavilaa   
+ee leata paadamunalankarichina muvvalle nea maaripoanaa   
+Veakuva choopina haayi kala, manmadhuDaa idi maaya valaa    
+nee maaTa suaTiga maayEdoa cheayaga neaninka needaanni kaanaa     
+AraaTamaa idi aanandamaa, naaloani bhaavaalakea addamaa    
+Prabhaatamaa naa prapanchamaa vennanTi saageaTi naa neeDalaa maari ia janmanea yealukoavaa ....  
+
+daaaguDu muatalu kannulatO, valapula choopulu gunDelaloa  
+naa gunDe chaTuna daagunna aaSalu ninninka cheareadelaaga   
+E katha yerugani prayaNayamidi, preamaga pondina paruvamidi   
+nee chuapu kougili koarindi naa madi dooraalanE daaTi raavaa    
+nee vaaDinai yedapai vaalani nee preama loa nanu SwaaSinchania    
+nireekshaNai madi veachunnadi, ia kaavyamea neaDu   
+naa gunDeloa cheari geetaanjalai pongi pOnia  
 
 <!-- [TOC] -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XTz1gjh9ga0
@@ -35,31 +61,7 @@ alt="నా మనసుని తాకే వేకువజాబిలివ
 నిరీక్షణై మది వేచున్నది, ఈ కావ్యమే నేడు  
 నా గుండెలో చేరి గీతాంజలై పొంగి పోనీ ...
 
------
-
-naa manasuni taakea veakuvajaabilivoa   
-ee bhuvi kannulakea andani taarakavoa   
-
-naa pedavini taakea toli siri vaaneadoa  
-nee kanu saigalakea preamaga maarinadoa   
-
-naa yeda mallikavoa.. cheli koavela deevenavoa  
-mari minnulu chuaDani punnami vennela nealaku jaarinadoa   
-
-kannula nanTina kaaTukalaa, nee pedavanchuna pallavilaa   
-ee leata paadamunalankarichina muvvalle nea maaripoanaa   
-Veakuva choopina haayi kala, manmadhuDaa idi maaya valaa    
-nee maaTa suaTiga maayEdoa cheayaga neaninka needaanni kaanaa     
-AraaTamaa idi aanandamaa, naaloani bhaavaalakea addamaa    
-Prabhaatamaa naa prapanchamaa vennanTi saageaTi naa neeDalaa maari ia janmanea yealukoavaa ....  
-
-daaaguDu muatalu kannulatO, valapula choopulu gunDelaloa  
-naa gunDe chaTuna daagunna aaSalu ninninka cheareadelaaga   
-E katha yerugani prayaNayamidi, preamaga pondina paruvamidi   
-nee chuapu kougili koarindi naa madi dooraalanE daaTi raavaa    
-nee vaaDinai yedapai vaalani nee preama loa nanu SwaaSinchania    
-nireekshaNai madi veachunnadi, ia kaavyamea neaDu   
-naa gunDeloa cheari geetaanjalai pongi pOnia  
+------------
 
 <!-- 
     ఫ్రభాతమా నా ప్రపంచమా వెన్నంటి సాగేటి నా నీడలా మారి ఈ జన్మనే యేలుకోవా ...

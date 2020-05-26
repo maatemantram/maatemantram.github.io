@@ -1,9 +1,10 @@
-Title: nee neeli kannuloni aakasame    
-Date: 2019-03-25 12:00      
-Slug:  nee-neeli-kannuloni-aakasame    
-Authors: Krishna Kanth, Justin Prabhakaran, Gowtham Bharadwaj  
-Tags: Romantic, Justin Prabhakaran, Krishna Kanth, Gowtham Bharadwaj  
-Summary: నీ నీలి కన్నుల్లోని ఆకాశమే...  తెల్లారి అల్లేసింది నన్నె 
+title: nee neeli kannuloni aakasame   
+album: Dear Comrade   
+date: 2019-03-25 12:00      
+slug:  nee-neeli-kannuloni-aakasame    
+authors: Krishna Kanth, Justin Prabhakaran, Gowtham Bharadwaj  
+tags: Romantic, Justin Prabhakaran, Krishna Kanth, Gowtham Bharadwaj  
+summary: నీ నీలి కన్నుల్లోని ఆకాశమే...  తెల్లారి అల్లేసింది నన్నె 
 
 ------------
 

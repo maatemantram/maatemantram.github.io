@@ -1,9 +1,9 @@
-Title: ముద్దుపెట్టన ఉపిరి పైనే 
-Date: 2019-03-25 12:00      
-Slug:  pade-pade-pedalani  
-Authors: Krishna Kanth, Anirudh Ravichander,Brodha V, Shakthisree Gopalan  
-Tags: Romantic, Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan  
-Summary: ముద్దుపెట్టన ఉపిరి పైనే చుట్టు ముట్టన ఆవిరి లానే కన్ను కుట్టన కోరికకైనా నిన్ను ముట్టగనె  
+title: ముద్దుపెట్టన ఉపిరి పైనే 
+date: 2019-03-25 12:00      
+slug:  pade-pade-pedalani  
+authors: Krishna Kanth, Anirudh Ravichander,Brodha V, Shakthisree Gopalan  
+tags: Romantic, Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan  
+summary: ముద్దుపెట్టన ఉపిరి పైనే చుట్టు ముట్టన ఆవిరి లానే కన్ను కుట్టన కోరికకైనా నిన్ను ముట్టగనె  
 
 -----
 

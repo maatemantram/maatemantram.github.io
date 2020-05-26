@@ -1,11 +1,12 @@
-Title: ప్రియతమ ప్రియతమ
-Date: 2019-03-25 12:00      
-Slug:  priyatama-priyatama   
-Authors: Goshala Rambabu, Gopi Sundar   
-Tags: Romantic, Gopi Sundar, Goshala Rambabu   
-Summary: ప్రియతమ ప్రియతమ ..పలికినది హృదయమే సరిగమా.. చిలిపి నీ తలపులో తెలిసినది వలుపులో మధురిమా 
+title: Priyatama priyatama  
+album: Majili  
+date: 2019-03-25 12:00      
+slug:  priyatama-priyatama   
+authors: Goshala Rambabu, Gopi Sundar   
+tags: Romantic, Gopi Sundar, Goshala Rambabu   
+summary: ప్రియతమ ప్రియతమ ..పలికినది హృదయమే సరిగమా.. చిలిపి నీ తలపులో తెలిసినది వలుపులో మధురిమా 
     
------
+------------
 
 ప్రియతమ ప్రియతమ ..పలికినది హృదయమే సరిగమా..    
 చిలిపి నీ తలపులో..తెలిసినది వలుపులో మధురిమా..  
@@ -54,4 +55,4 @@ _చరణం #2:_
 చక్కనైన చుక్కరా   
 నిన్ను కోరుకుందిరా సుందరా..  
 
------
+------------

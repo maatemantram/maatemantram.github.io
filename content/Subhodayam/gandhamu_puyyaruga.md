@@ -1,11 +1,57 @@
-﻿Title: గంధము పుయ్యరుగ  
-Date: 1980      
-Slug: gandhamu-puyyaruga
-Authors: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela     
-Tags: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela    
-Summary: గంధము పుయ్యరుగ పన్నీరు గంధము పుయ్యరుగ..  
+﻿title: Gandhamu puyyaruga   
+album: Subhodayam  
+date: 1980      
+slug: gandhamu-puyyaruga
+authors: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela     
+tags: Tyagaraja, Veturi, K. V. Mahadevan, S.P.B, P. Susheela    
+summary: గంధము పుయ్యరుగ పన్నీరు గంధము పుయ్యరుగ..  
 
------
+
+------------
+
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Andhamaina yadhu nandanupai..  
+Andhamaina yadhu nandanupai..  
+Kundaradanaliruvondaga parimala..  
+
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Andhamaina yadhu nandanupai..  
+Kundaradanaliruvondaga parimala ..  
+
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga..  
+ 
+Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga..  
+Kalakalamanu mukha kalagani sokkuchu..  
+Kalakalamanu mukha kalagani sokkuchu..  
+Palukulanamrtamulolike swamiki..  
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+
+Chelamu kattaruga bangaru chelamu kattaruga..  
+Chelamu kattaruga bangaru chelamu kattaruga..  
+Maalimitho gopala baluratho..  
+Maalimitho gopala baluratho..  
+Naala mepina vishala nayanuki..  
+
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..   
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..   
+
+Poojalu seyaruga manasara poojalu seyaruga..  
+Poojalu seyaruga manasara poojalu seyaruga..  
+Poojalu seyaruga manasara poojalu seyaruga..  
+Poojalu seyaruga manasara poojalu seyaruga..  
+Jajulu mari virajajulu dhavanamu..  
+Jajulu mari virajajulu dhavanamu..  
+Raajitha thyagaraja vinuthuniki..  
+
+Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
+Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga  
+Chelamu kattaruga bangaru chelamu kattaruga..  
+Poojalu seyaruga manasara poojalu seyaruga.. 
+
+------------
 
 గంధము పుయ్యరుగ పన్నీరు గంధము పుయ్యరుగ..  
 గంధము పుయ్యరుగ పన్నీరు గంధము పుయ్యరుగ..  
@@ -49,46 +95,4 @@ Summary: గంధము పుయ్యరుగ పన్నీరు గం�
 చేలము కట్టరుగ బంగారు చేలము కట్టరుగ..  
 పూజలు సెయ్యరుగ మనసార పూజలు సెయ్యరుగ..  
 
------
-
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Andhamaina yadhu nandanupai..  
-Andhamaina yadhu nandanupai..  
-Kundaradanaliruvondaga parimala..  
-
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Andhamaina yadhu nandanupai..  
-Kundaradanaliruvondaga parimala ..  
-
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga..  
- 
-Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga..  
-Kalakalamanu mukha kalagani sokkuchu..  
-Kalakalamanu mukha kalagani sokkuchu..  
-Palukulanamrtamulolike swamiki..  
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-
-Chelamu kattaruga bangaru chelamu kattaruga..  
-Chelamu kattaruga bangaru chelamu kattaruga..  
-Maalimitho gopala baluratho..  
-Maalimitho gopala baluratho..  
-Naala mepina vishala nayanuki..  
-
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..   
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..   
-
-Poojalu seyaruga manasara poojalu seyaruga..  
-Poojalu seyaruga manasara poojalu seyaruga..  
-Poojalu seyaruga manasara poojalu seyaruga..  
-Poojalu seyaruga manasara poojalu seyaruga..  
-Jajulu mari virajajulu dhavanamu..  
-Jajulu mari virajajulu dhavanamu..  
-Raajitha thyagaraja vinuthuniki..  
-
-Gandhamu puyyaruga panneeru gandhamu puyyaruga..  
-Thilakamu dhiddaruga kasthuri thilakamu dhiddaruga  
-Chelamu kattaruga bangaru chelamu kattaruga..  
-Poojalu seyaruga manasara poojalu seyaruga.. 
+------------

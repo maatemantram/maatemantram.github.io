@@ -1,6 +1,6 @@
 title: Kadalalle  
-album: Dear Comrade   
-slug: kadalalle-|-dear-comrade-telugu  
+album: Dear Comrade  
+slug: kadalalle  
 date: 2020  
 authors: Rehman, Justin Prabhakaran, Sid Sriram, Aishwarya Ravichandran  
 tags: Rehman, Justin Prabhakaran, Sid Sriram, Aishwarya Ravichandran  
