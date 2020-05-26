@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/</loc>
-<lastmod>2020-05-26T22:51:40-00:00</lastmod>
+<lastmod>2020-05-26T23:45:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/archives.html</loc>
-<lastmod>2020-05-26T22:51:40-00:00</lastmod>
+<lastmod>2020-05-26T23:45:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/tags.html</loc>
-<lastmod>2020-05-26T22:51:40-00:00</lastmod>
+<lastmod>2020-05-26T23:45:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://maatemantram.com/categories.html</loc>
-<lastmod>2020-05-26T22:51:40-00:00</lastmod>
+<lastmod>2020-05-26T23:45:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -802,7 +802,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://maatemantram.com/dearcomrade/kadalalle-|-dear-comrade-telugu</loc>
+<loc>https://maatemantram.com/dearcomrade/kadalalle</loc>
 <lastmod>2020-05-26T00:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -1901,13 +1901,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://maatemantram.com/geetanjali2014/Na-manasuni-taake</loc>
-<lastmod>2019-03-25T12:00:00+05:30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-
-<url>
 <loc>https://maatemantram.com/chitralahari/Prayathname</loc>
 <lastmod>2019-03-25T12:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
@@ -1965,6 +1958,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://maatemantram.com/majili/na-gundello</loc>
+<lastmod>2019-03-25T12:00:00+05:30</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>https://maatemantram.com/geetanjali2014/na-manasuni-taake</loc>
 <lastmod>2019-03-25T12:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
